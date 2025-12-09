@@ -1,0 +1,22 @@
+# OS-specifika filer
+.DS_Store
+Thumbs.db
+
+# Editor-inställningar
+.vscode/
+.idea/
+
+# Loggar och temporära filer
+*.log
+*.tmp
+
+# Bygg- och cachemappar
+dist/
+build/
+.cache/
+
+# Node.js (om du senare använder npm eller yarn)
+node_modules/
+
+# Miljöfiler
+.env
